@@ -4,6 +4,7 @@ An amateur developer 🖥️ from India.<br>
 - 🐍 Learning Python3, C, C++ and Java <br>
 - 📦 Love to play around with kernels.<br>
 - 📫 How to reach me: You may contact me on <a href="https://t.me/cosmofreak001">Telegram</a> 
+
 - 😄 Pronouns: he/him/his<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sparxfusion&style=flat-square" alt="sparxfusion" /> </p>
